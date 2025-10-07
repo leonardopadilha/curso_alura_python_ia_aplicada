@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "workbench.statusBar.visible": true
+}
